@@ -11,10 +11,7 @@
 	<link rel="shortcut icon" href="<c:url value="/"/>resources/ico/favicon.png">
     <link href="<c:url value="/"/>/resources/css/bootstrap.css" rel="stylesheet">
     <link href="<c:url value="/"/>/resources/css/style.css" rel="stylesheet">
-	<script src="<c:url value="/"/>/resources/js/jquery-1.11.0.js"></script>
-    <script src="<c:url value="/"/>/resources/js/bootstrap.js"></script>
   </head>
-
   <body>
     <div class="container">
       <div class="row">
@@ -34,5 +31,8 @@
             <div class="col-md-4 stuff">some place for voting/timetable/etc</div>
       </div>
     </div><!-- /.container -->
+    
+    <script src="<c:url value="/"/>/resources/js/jquery-1.11.0.js"></script>
+    <script src="<c:url value="/"/>/resources/js/bootstrap.js"></script>
   </body>
 </html>
