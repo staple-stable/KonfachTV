@@ -9,8 +9,8 @@
     <meta name="author" content="Aleksandr_Mishin">
     <title>KonfachTV</title>
 	<link rel="shortcut icon" href="<c:url value="/"/>resources/ico/favicon.png">
-    <link href="<c:url value="/"/>/resources/css/bootstrap.css" rel="stylesheet">
-    <link href="<c:url value="/"/>/resources/css/style.css" rel="stylesheet">
+    <link href="<c:url value="/"/>resources/css/bootstrap.css" rel="stylesheet">
+    <link href="<c:url value="/"/>resources/css/style.css" rel="stylesheet">
   </head>
   <body>
     <div class="container">
@@ -76,7 +76,7 @@
       </div>
     </div><!-- /.container -->
     
-    <script src="<c:url value="/"/>/resources/js/jquery-1.11.0.js"></script>
-    <script src="<c:url value="/"/>/resources/js/bootstrap.js"></script>
+    <script src="<c:url value="/"/>resources/js/jquery-1.11.0.js"></script>
+    <script src="<c:url value="/"/>resources/js/bootstrap.js"></script>
   </body>
 </html>
